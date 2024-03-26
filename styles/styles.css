@@ -1,0 +1,66 @@
+.titulo
+{
+    text-align: center;
+    color: rgb(132, 0, 255);
+    margin: 50px;
+}
+.menu
+{   
+    margin: 30px;
+    display: flex;
+    padding: 30px;
+    background-color:rgb(77, 255, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.menu a
+{   
+    font-size: medium;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+
+}
+.imagen
+{    
+    margin-left: 390px;
+    border-image-width: auto;
+    width: 620px;
+    height: 420px;
+}
+.sobre
+{
+    color: red;
+}
+.personaje 
+{
+    
+    width: 850px;
+    height: 500px;
+
+}
+.resumen 
+{
+    width: 550px;
+    height: 350px;
+
+}
+.opinion
+{
+    width: 400px;
+    height: 300px;
+}
+.boton-a
+{
+    display: flex; 
+    background-color: #6404ff; 
+    color: rgb(255, 255, 255); 
+    text-align: center; 
+    padding: 10px 20px;  
+    text-decoration: none;
+    font-size: 20px; 
+    border: none; 
+    border-radius: 55px;
+    justify-content: center;
+    align-items: center;
+}
